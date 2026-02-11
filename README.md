@@ -11,9 +11,9 @@ Eco-Logic is an open-source framework designed to help grassroots collectives au
 
 1. Data Sovereignty
 
-2 . Transparency by Design
+2. Transparency by Design
 
-3 . Open Infrastructure
+3. Open Infrastructure
 
 4. Low-Bandwidth Compatibility
 
