@@ -1,38 +1,26 @@
-**Governance Framework**
-
-**Eco-Logic follows a co-design model:**
-
-1. Community-Defined Metrics:
-Impact categories are defined during data design jams with union leaders.
-
-2. Consent by Default:
-No data is collected without collective-level consent approval.
-
-3. Open Reporting:
-All aggregated data outputs are publicly auditable.
-
-4. Bias Mitigation:
-Quarterly reviews of spatial and demographic skew in reporting.
-
-5. Data Exit Rights:
-Collectives retain the right to withdraw participation.
-
-
 # Eco-Logic Governance Framework
 
-Eco-Logic embeds governance directly into system design.
+Eco-Logic embeds governance principles directly into the system design to ensure transparency, community ownership, and ethical data practices.
 
 ## 1. Community-Defined Metrics
-Impact categories are defined collaboratively with collective leaders.
+Impact categories are collaboratively defined with collective leaders during participatory data design sessions, ensuring that the metrics truly reflect community priorities.
 
-## 2. Named Data Stewardship
-Each collective assigns a data steward responsible for record integrity.
+## 2. Consent by Default and Data Stewardship
+No data is collected without the collective’s explicit consent. Each collective appoints a named data steward responsible for maintaining the integrity and security of their records.
 
-## 3. Verification Layer
-All impact claims must be marked verified or unverified.
+## 3. Verification and Bias Mitigation
+All impact claims are clearly marked as verified or unverified. Additionally, quarterly reviews are conducted to identify and address any spatial or demographic biases in reporting.
 
-## 4. Data Access Logging
-All system interactions are recorded in a transparent audit log.
+## 4. Transparent Access and Open Reporting
+Every interaction with the system is logged in a transparent audit trail. Aggregated data outputs are publicly auditable, enabling accountability and trust.
 
-## 5. Ethical Design
-The system prioritizes community ownership over extractive data models.
+## 5. Ethical Design and Data Exit Rights
+The system prioritises community ownership and rejects extractive data models. Collectives retain the right to withdraw from participation and control their data at any time.
+
+
+
+
+
+
+
+
