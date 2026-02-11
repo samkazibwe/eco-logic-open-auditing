@@ -2,7 +2,7 @@
 
 Eco-Logic is a minimal, scalable architecture for community-led environmental auditing and supply chain transparency.
 
-## Core Components
+## Core Components:
 - Relational database (PostgreSQL-ready)
 - Environmental impact tracking
 - Governance & audit logging layer
