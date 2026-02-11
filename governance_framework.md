@@ -1,4 +1,4 @@
-# Eco-Logic Governance Framework
+# Eco-Logic Governance Framework:
 
 Eco-Logic embeds governance principles directly into the system design to ensure transparency, community ownership, and ethical data practices.
 
