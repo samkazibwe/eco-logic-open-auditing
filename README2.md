@@ -15,4 +15,4 @@ Eco-Logic is a minimal, scalable architecture for community-led environmental au
 - Transparent governance
 - Low-bandwidth compatibility
 
-This repository contains the structural prototype used for fellowship demonstration purposes.
+This repository contains the structural prototype I am using for my Mozilla fellowship demonstration purposes.
