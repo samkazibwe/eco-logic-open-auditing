@@ -3,7 +3,7 @@
 **Eco-Logic follows a co-design model:**
 
 1. Community-Defined Metrics:
-Impact categories are defined during “Data Design Jams” with union leaders.
+Impact categories are defined during data design jams with union leaders.
 
 2. Consent by Default:
 No data is collected without collective-level consent approval.
