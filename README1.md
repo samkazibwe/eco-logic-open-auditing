@@ -9,15 +9,15 @@ Eco-Logic is an open-source framework designed to help grassroots collectives au
 
 **Core Principles**: 
 
-1. Data Sovereignty
+1. Data Sovereignty.
 
-2. Transparency by Design
+2. Transparency by Design.
 
-3. Open Infrastructure
+3. Open Infrastructure.
 
-4. Low-Bandwidth Compatibility
+4. Low-Bandwidth Compatibility.
 
-5. Community Governance 
+5. Community Governance.
 
 6. Architecture Overview.
 
