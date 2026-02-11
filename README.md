@@ -8,32 +8,33 @@ Eco-Logic is an open-source framework designed to help grassroots collectives au
 
 
 **Core Principles**: 
-Data Sovereignty
 
-Transparency by Design
+1. Data Sovereignty
 
-Open Infrastructure
+2 . Transparency by Design
 
-Low-Bandwidth Compatibility
+3 . Open Infrastructure
 
-Community Governance 
+4. Low-Bandwidth Compatibility
 
-Architecture Overview.
+5. Community Governance 
+
+6. Architecture Overview.
 
 
 
 
 **Eco-Logic consists of:**
 
-A lightweight relational database for environmental records.
+1. A lightweight relational database for environmental records.
 
-Open SQL auditing protocols.
+2. Open SQL auditing protocols.
 
-GIS-compatible spatial mapping.
+3. GIS-compatible spatial mapping.
 
-A governance layer for community-defined metrics.
+4. A governance layer for community-defined metrics.
 
-Public reporting dashboards for transparency.
+5. Public reporting dashboards for transparency.
 
 
 
@@ -41,13 +42,13 @@ Public reporting dashboards for transparency.
 
 Responsible AI and open data must move beyond corporate transparency reports. Communities must be able to:
 
-Audit their participation.
+1. Audit their participation.
 
-Quantify their contribution.
+2. Quantify their contribution.
 
-Negotiate from evidence.
+3. Negotiate from evidence.
 
-Govern their own digital footprint.
+3. Govern their own digital footprint.
 
 
 **Eco-Logic is an early-stage prototype toward that vision.
