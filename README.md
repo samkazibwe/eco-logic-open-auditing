@@ -1,8 +1,11 @@
 **Eco-Logic: Open Environmental Auditing Framework**
 
+
 **Vision**
 
 Eco-Logic is an open-source framework designed to help grassroots collectives audit their own environmental and supply-chain impact. Upstream supply chains often function as black boxes where data is extracted but rarely returned to the communities generating it. Eco-Logic proposes a community-centred alternative: data systems that are transparent, accountable, and governed by the people they represent.
+
+
 
 **Core Principles**: 
 Data Sovereignty
@@ -17,6 +20,9 @@ Community Governance
 
 Architecture Overview.
 
+
+
+
 **Eco-Logic consists of:**
 
 A lightweight relational database for environmental records.
@@ -28,6 +34,8 @@ GIS-compatible spatial mapping.
 A governance layer for community-defined metrics.
 
 Public reporting dashboards for transparency.
+
+
 
 **Why This Matters:**
 
