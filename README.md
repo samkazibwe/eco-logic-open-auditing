@@ -51,5 +51,4 @@ Responsible AI and open data must move beyond corporate transparency reports. Co
 3. Govern their own digital footprint.
 
 
-**Eco-Logic is an early-stage prototype toward that vision.
-**
+Eco-Logic is an early-stage prototype toward that vision.
