@@ -1,4 +1,4 @@
-**Transparency Dashboard Concept**
+#**Transparency Dashboard Concept**
 (The public dashboard will display):
 
 1. Total collectives onboarded.
