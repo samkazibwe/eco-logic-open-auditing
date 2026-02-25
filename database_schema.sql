@@ -1,6 +1,5 @@
--- ============================================
+
 -- ECO-LOGIC v0.1 DATABASE SCHEMA
--- ============================================
 
 -- TABLE 1: Collectives
 CREATE TABLE collectives (
