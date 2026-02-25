@@ -1,6 +1,5 @@
--- ============================================
+
 -- ECO-LOGIC ANALYTICS QUERIES
--- ============================================
 
 -- 1. District-Level Environmental Summary
 SELECT c.district,
